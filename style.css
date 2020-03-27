@@ -16,10 +16,9 @@ body{
 }
 .button{
   text-align: center;
-  text-transform: uppercase;
-  text-align: center;
   border-radius: 300px;
   cursor:pointer;
   background-color:red;
   color:white;
+  font-size: 200px;
 }
