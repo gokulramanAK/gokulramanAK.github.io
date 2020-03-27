@@ -3,10 +3,7 @@ body{
   background-image: url(subscriber2.jpg);
   background-size: cover;
 }
-.btn{
-  text-transform: uppercase;
-  border-radius: 300px;
-}
+
 .goks{
   color:white;
   margin-right: 200px;
